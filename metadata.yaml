@@ -1,0 +1,40 @@
+_repo: Foods-and-Household-ManagementA-Textbook-of-the-Household-Arts_40796
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40796-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Kinne, Helen
+    birthdate: 1861
+    deathdate: 1917
+    gutenberg_agent_id: '40823'
+    url: http://www.gutenberg.org/2009/agents/40823
+  - agent_name: Cooley, Anna M. (Anna Maria)
+    birthdate: 1874
+    gutenberg_agent_id: '40824'
+    url: http://www.gutenberg.org/2009/agents/40824
+description: ''
+gutenberg_issued: '2012-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Food'
+- !lcsh 'Cooking'
+- !lcsh 'Home economics'
+tableOfContents: Food materials and foodstuffs -- Kitchen furnishings -- Fuels and
+  stoves -- Food preparation -- Water and other beverages -- Fruit and its preservation
+  -- Vegetables and vegetable cookery -- Cereal products -- Eggs, milk, and cheese
+  -- The fats and the sugars -- Muffins, biscuit, cake, and pastry -- Yeast bread
+  -- Meats and poultry -- Fish and shellfish -- Salads and desserts -- Preparation
+  of meals and table service -- The cost and the purchase of food -- Menus and dietaries
+  -- The household budget -- System in management -- How to buy -- Housewifery --
+  Laundering and dry cleansing.
+title: 'Foods and Household Management: A Textbook of the Household Arts'
+url: http://www.gutenberg.org/ebooks/40796
